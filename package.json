@@ -1,0 +1,19 @@
+{
+  "name": "electronmoviemaker",
+  "version": "1.0.0",
+  "description": "동영상 편집 프로그램",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubthkim/electronmoviemaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubthkim/electronmoviemaker/issues"
+  },
+  "homepage": "https://github.com/githubthkim/electronmoviemaker#readme"
+}

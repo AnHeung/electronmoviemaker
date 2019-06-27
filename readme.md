@@ -25,3 +25,6 @@ vscode 최신버전
 node.js
 - 10.16.0 LTS for windows x64
 - https://nodejs.org/dist/v10.16.0/node-v10.16.0-x64.msi
+
+package manager
+npm 사용
