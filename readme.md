@@ -16,10 +16,12 @@
 기한 : 2019.07.14까지 진행
 
 개발환경
+
 vscode 최신버전
 - GitHub
 - GitHub Pull Requests
 - Korean Language Pack for Visual Studio Code
+
 node.js
 - 10.16.0 LTS for windows x64
 - https://nodejs.org/dist/v10.16.0/node-v10.16.0-x64.msi
