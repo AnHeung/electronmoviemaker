@@ -21,6 +21,7 @@ vscode 최신버전
 - GitHub
 - GitHub Pull Requests
 - Korean Language Pack for Visual Studio Code
+- Debugger for Chrome
 
 node.js
 - 10.16.0 LTS for windows x64
