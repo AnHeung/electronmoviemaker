@@ -2,7 +2,7 @@
   "name": "electronmoviemaker",
   "version": "1.0.0",
   "description": "동영상 편집 프로그램",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/githubthkim/electronmoviemaker/issues"
   },
-  "homepage": "https://github.com/githubthkim/electronmoviemaker#readme"
+  "homepage": "https://github.com/githubthkim/electronmoviemaker#readme",
+  "devDependencies": {
+    "electron": "^5.0.6"
+  }
 }

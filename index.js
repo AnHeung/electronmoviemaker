@@ -1,1 +1,0 @@
-console.log('Hellow Electron Movie Maker !!');
