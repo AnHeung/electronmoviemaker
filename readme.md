@@ -32,27 +32,15 @@ package manager npm 사용
 모든 활동은 GitHub에서 제공하는 Issue로 등록한다. hotfix, feature, issure 브랜치는 GitHub에 등록된 <issue_number>를 기준으로 생성한다.
 
 master 브랜치
-
-사용자에게 배포되는 것과 동일
-release 이름은 사용안함
 develop 브랜치
 
 개발자 공통 브랜치
-hotfix 브랜치
 
-master 브랜치로부터 생성하는 브랜치이다. master 브랜치에 심각한 오류가 있는 경우에만 생성한다.
-명명규칙: hotfix/<issue_number>
-완료 후 master, release, develop 브랜치에 병합한다.
 feature 브랜치
-
 develop 브랜치로부터 생성하는 브랜치이다.
 명명규칙: feature/<issue_number>/<짧은설명>
 완료 후 develop 브랜치에 병합한다.
 issue 브랜치
-
-develop, feature, release 브랜치로부터 생성하는 브랜치이다.
-명명규칙: issue/<issue_number>
-완료 후에는 생성된 부모 브랜치로 병합한다.
 
 # 빠른 개발을 위한 참조
 https://github.com/RuurdBijlsma/Ruurd-Movie-Maker 를 복사해서 시작
